@@ -2,7 +2,7 @@
 
 ## 📖 About Us 
 
-Welcome to the GitHub profile of [Your Organization's Name]! We are a dynamic marketing agency specializing in creating captivating web experiences. Our team is dedicated to delivering high-quality, visually stunning websites that help businesses thrive in the digital world.
+We are a dynamic marketing agency specializing in creating captivating web experiences. Our team is dedicated to delivering high-quality, visually stunning websites that help businesses thrive in the digital world.
 
 ## 🎯 Our Mission 
 
